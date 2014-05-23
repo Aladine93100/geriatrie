@@ -1,0 +1,32 @@
+.page-header {
+	font-family: 'Lobster', cursive;
+	background-color: rgba(161,77,4,0.5);
+	padding-top: 20px;
+	margin-top: 0px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+
+.well {
+	text-align: center;
+	font: 5px !important;
+	margin-top: 70px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 5px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.btn-default {
+	background-color: rgba(161,77,4,0.5);	
+	color: black !important;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.menu1, .menu2, .menu3 {
+	margin: 30px;
+}
+
+.footer {
+	font-family: 'Ubuntu', sans-serif;
+}
