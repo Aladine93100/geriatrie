@@ -30,3 +30,10 @@
 .footer {
 	font-family: 'Ubuntu', sans-serif;
 }
+
+.panel-default {
+	margin-left: 30px;
+	margin-right: 30px;
+	font-family: 'Ubuntu', sans-serif;
+
+}
