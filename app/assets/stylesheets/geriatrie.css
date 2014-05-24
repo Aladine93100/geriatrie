@@ -7,12 +7,21 @@
 	border-bottom-color: black;
 }
 
+/* home */
+
+.jumbotron {
+	font-family: 'Ubuntu', sans-serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+
 .well {
 	text-align: center;
 	font: 5px !important;
-	margin-top: 70px;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
 	padding: 5px;
 	font-family: 'Ubuntu', sans-serif;
 }
@@ -21,6 +30,10 @@
 	background-color: rgba(161,77,4,0.5);	
 	color: black !important;
 	font-family: 'Ubuntu', sans-serif;
+}
+
+.entrer {
+	margin-top: 100px;
 }
 
 .menu1, .menu2, .menu3 {
