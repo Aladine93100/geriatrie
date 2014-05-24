@@ -8,6 +8,7 @@ Geriatrie::Application.routes.draw do
   get "fiches/recherche"
   get "fiches/themes"
   get "questionnaires/index"
+  get "plus/liens"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
